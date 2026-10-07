@@ -23,7 +23,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na ULBRA (RS), focado em
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [comparador-precos-python](https://github.com/GabrielMoreiraMelo/comparador-precos-python) | Coleta e compara preços entre marketplaces, com dashboard e histórico | Python, Playwright, FastAPI, SQLite |
 | Coleta via API Pública | Extração de dados de API e persistência em CSV/JSON | Python |
-| Crawler de Preços | Coleta automatizada de preços com arquitetura hexagonal | Java, Selenium |
 | Banco de Dados de Clínica | Modelagem relacional e NoSQL com documentação | MySQL, MongoDB |
 | Jogo 2D de Ondas | Jogo com padrões Strategy e Factory | JavaScript, Canvas |
